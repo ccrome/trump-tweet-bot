@@ -1,5 +1,5 @@
 # trump-tweet-bot
-A useless excuse for a tweet bot.  Based on fast.ai's Niche code generator.  
+A useless excuse for a tweet bot.  Based on fast.ai's Nietzsche code generator.  
 
 To use:  You can simply run the trump-generate.ipynb code to generate tweets.
 
